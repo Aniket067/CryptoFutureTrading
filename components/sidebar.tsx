@@ -13,7 +13,7 @@ export default function Sidebar() {
     { icon: "chart.svg", href: "/wishlist" },
     { icon: "chart2.svg", href: "/transaction-history" },
     { icon: "setting.svg", href: "/wallet" },
-    { icon: "file.svg", href: "/documents" },
+    { icon: "file.svg", href: "/futures-trading" },
     { icon: "setting2.svg", href: "/settings" },
   ]
 
